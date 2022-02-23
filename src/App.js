@@ -29,6 +29,7 @@ function App() {
         {cardData.map((card) => {
           return <HighLightCard key={card.id} title={card.title} src={card.imgSrc}/>
         })}
+        
       </ContentContainer>
     </div>
   );
