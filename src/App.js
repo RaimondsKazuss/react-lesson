@@ -21,6 +21,7 @@ const cardData = [
 ]
 
 function App() {
+
   return (
     <div className="App">
       <Nav/>
@@ -34,3 +35,4 @@ function App() {
 }
 
 export default App;
+

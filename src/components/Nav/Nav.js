@@ -1,7 +1,6 @@
 import NavButton from "../NavButton/NavButton";
 
 const Nav = () => {
-
     return (
         <header>
             <div>logo</div>
@@ -12,3 +11,4 @@ const Nav = () => {
 }
 
 export default Nav;
+

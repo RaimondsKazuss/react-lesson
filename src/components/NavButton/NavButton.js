@@ -1,7 +1,7 @@
 import React, {useState} from "react"
 
 const NavButton = ({title}) => {
-    //react state hook
+    //react useState hook
     const [isOpen, setIsOpen] = useState(false)
 
 
@@ -18,3 +18,6 @@ const NavButton = ({title}) => {
 }
 
 export default NavButton
+
+
+
